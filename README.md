@@ -1,2 +1,1 @@
-# naukagita
-repo do nauki gita
+Paragon z warzywniaka
